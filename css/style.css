@@ -25,7 +25,7 @@ body {
   border-radius: 10px;
 }
 .qr-body {
-  padding: 15px;
+  padding: 0 15px;
 }
 .qr-heading {
   font-size: 21.5px;
