@@ -16,7 +16,7 @@ body {
   border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0 10px 30px 0px rgba(0, 0, 0, 0.1);
-  max-width: 330px;
+  max-width: 290px;
   box-sizing: border-box;
   text-align: center;
 }
@@ -29,7 +29,7 @@ body {
   margin: auto;
 }
 .qr-heading {
-  font-size: 21px;
+  font-size: 22.5px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
